@@ -1,0 +1,19 @@
+.main-container {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.count-style {
+    margin: 0;
+    font-size: 50px;
+}
+.btns {
+    margin: 10px;
+    background-color: skyblue;
+    border: 0;
+    outline: 0;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+}
